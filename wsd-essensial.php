@@ -13,3 +13,5 @@ Author: Wordpress Senior Developers
 Version: 0.1.0
 Author URI: https://github.com/WordpressSeniorDevelopers
 */
+
+require_once('functions/menu-walker.php');
